@@ -8,5 +8,3 @@ RUN set -e; \
     pip3 install --no-cache-dir -r /mnt/extra-addons/requirements.txt
 
 USER odoo
-
-
